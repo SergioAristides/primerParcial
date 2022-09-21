@@ -1,6 +1,7 @@
 from Parcial import Esrtructura
 def main():
-    pass
+    esrtructura= Esrtructura()
+    esrtructura.pedirDatos()
     
 if __name__== '__main__':
     main()
